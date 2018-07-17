@@ -1,0 +1,2 @@
+# JHTabBarViewController
+抄袭自LCTabBarController 添加动画效果等等
